@@ -24,17 +24,22 @@
 &nbsp;&nbsp;
 [![website](./img/facebook.png)](https://www.facebook.com/mmbapin)
 &nbsp;&nbsp;
-<!-- [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only) -->
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCThK6WxEm_XE24pcyBxmkew)
+&nbsp;&nbsp;
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/m-m-bapin-66ab3b146/)
+&nbsp;&nbsp;
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/)
+<!-- [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only) -->
+<!-- [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCThK6WxEm_XE24pcyBxmkew) -->
 <!-- &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only) -->
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp; -->
 <!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only) -->
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/m-m-bapin-66ab3b146/)
-&nbsp;&nbsp;
+<!-- [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/m-m-bapin-66ab3b146/) -->
+<!-- &nbsp;&nbsp; -->
 <!-- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only) -->
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/)
+<!-- [![website](./img/instagram-dark.svg)](https://www.instagram.com/) -->
 
 ### Languages and Tools:
 
