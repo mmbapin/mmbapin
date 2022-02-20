@@ -57,6 +57,18 @@
 ### <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/26/000000/external-work-worklife-balance-and-stress-management-parzival-1997-flat-parzival-1997.png"/>&nbsp; My Work Experience
 
 <!-- YOUTUBE:START -->
+- [Managing Partner Of Devwerke](https://devwerke.com)
+- [Software Engineer At Kona Software Lab LTD.](https://konasl.com/)
+- [Software Engineer At Genesys Softwares](https://genesysoftwares.com/)
+- [Front End Developer At SoftwindTech LTD.]
+- [Software Engineer At Infobizsoft LTD.](https://infobizsoftware.com/)
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 My Works
+
+<!-- BLOG-POST-LIST:START -->
 - [Robi Website](https://www.robi.com.bd/en)
 - [Airtel Website](https://www.bd.airtel.com/en)
 - [DBL Ceramics Website](https://dblceramics.com/en)
@@ -67,21 +79,8 @@
 - [Trevolin: Find your travel buddy easily](https://trevolin.com/)
 - [Summit Aviation](https://flysummit.com/)
 - [The world of Edwynn Rose International](https://edwynnrose.com/)
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
