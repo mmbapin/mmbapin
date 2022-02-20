@@ -23,7 +23,7 @@
 [![website](./img/globe-dark.svg)](https://devwerke.com/)
 &nbsp;&nbsp;
 [![website](./img/facebook.png)](https://www.facebook.com/mmbapin)
-[![website](https://img.icons8.com/ios/50/000000/facebook-new.png)](https://www.facebook.com/mmbapin)
+[![website](https://img.icons8.com/ios/24/000000/facebook-new.png)](https://www.facebook.com/mmbapin)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/m-m-bapin-66ab3b146/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/m-m-bapin-66ab3b146/)
