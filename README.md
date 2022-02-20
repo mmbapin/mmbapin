@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-<!-- [![website](./img/globe-light.svg)](https://devwerke.com/) -->
+[![website](./img/globe-light.svg)](https://devwerke.com/)
 [![website](./img/globe-dark.svg)](https://devwerke.com/)
 &nbsp;&nbsp;
 [![website](./img/facebook.png)](https://www.facebook.com/mmbapin)
