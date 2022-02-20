@@ -20,7 +20,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://devwerke.com/)
-[![website](./img/globe-dark.svg)](https://devwerke.com/)
+<!-- [![website](./img/globe-dark.svg)](https://devwerke.com/) -->
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
