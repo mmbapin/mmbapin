@@ -60,7 +60,7 @@
 - [Managing Partner Of Devwerke](https://devwerke.com)
 - [Software Engineer At Kona Software Lab LTD.](https://konasl.com/)
 - [Software Engineer At Genesys Softwares](https://genesysoftwares.com/)
-- [Front End Developer At SoftwindTech LTD.]
+- [Front End Developer At SoftwindTech LTD.]()
 - [Software Engineer At Infobizsoft LTD.](https://infobizsoftware.com/)
 <!-- YOUTUBE:END -->
 
