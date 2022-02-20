@@ -19,17 +19,13 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://devwerke.com/)
-[![website](./img/globe-dark.svg)](https://devwerke.com/)
+[![website](https://img.icons8.com/fluency/26/000000/domain.png)](https://devwerke.com/)
 &nbsp;&nbsp;
-[![website](./img/facebook.png)](https://www.facebook.com/mmbapin)
-[![website](https://img.icons8.com/ios/24/000000/facebook-new.png)](https://www.facebook.com/mmbapin)
+[![website](https://img.icons8.com/color/26/000000/facebook-new.png)](https://www.facebook.com/mmbapin)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/m-m-bapin-66ab3b146/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/m-m-bapin-66ab3b146/)
+[![website](https://img.icons8.com/external-justicon-lineal-color-justicon/26/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png)](https://www.linkedin.com/in/m-m-bapin-66ab3b146/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mmbapin/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mmbapin/)
+[![website](https://img.icons8.com/fluency/26/000000/instagram-new.png)](https://www.instagram.com/mmbapin/)
 
 
 ### Languages and Tools:
