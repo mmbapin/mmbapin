@@ -57,14 +57,17 @@
 ### <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/26/000000/external-work-worklife-balance-and-stress-management-parzival-1997-flat-parzival-1997.png"/>&nbsp; My Work Experience
 
 <!-- YOUTUBE:START -->
-- [ERC-20 vs ERC-721 vs ERC-1155 | &lpar;Non&rpar;Fungible Token Contracts Explained | FT vs NFT](https://www.youtube.com/watch?v=_rxHurlszUE)
-- [STACKr News Weekly: Coding WORDLE, Markdown Crash Course, Build Frogger with JavaScript](https://www.youtube.com/watch?v=ZX6J28qJCrw)
-- [GitHub Profile README Image Hacks](https://www.youtube.com/watch?v=jHr6Pc8oQjM)
-- [Markdown Tips &amp; Tricks 2022 - Markdown Crash Course](https://www.youtube.com/watch?v=ftOBvusMHjQ)
-- [STACKr News Weekly: FAANG, 2022 Developer Roadmap, In-Demand Tech Roles](https://www.youtube.com/watch?v=Cl1hMoUlXfE)
+- [Robi Website](https://www.robi.com.bd/en)
+- [Airtel Website](https://www.bd.airtel.com/en)
+- [DBL Ceramics Website](https://dblceramics.com/en)
+- [Buy Here Now](https://www.buyherenow.com.bd/)
+- [Isho E-commerce Website](https://www.isho.com/)
+- [Augmentive Website](https://augmentive.dev/)
+- [Jashore University of Science and Technology](https://just.edu.bd/)
+- [Trevolin: Find your travel buddy easily](https://trevolin.com/)
+- [Summit Aviation](https://flysummit.com/)
+- [The world of Edwynn Rose International](https://edwynnrose.com/)
 <!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
