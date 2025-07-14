@@ -89,7 +89,6 @@
 - [Augmentive Website](https://augmentive.dev/)
 - [Jashore University of Science and Technology](https://just.edu.bd/)
 - [Trevolin: Find your travel buddy easily](https://trevolin.com/)
-- [Summit Aviation](https://flysummit.com/)
 - [The world of Edwynn Rose International](https://edwynnrose.com/)
 <!-- BLOG-POST-LIST:END -->
 
