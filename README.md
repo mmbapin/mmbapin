@@ -19,8 +19,6 @@
 
 ### Connect with me:
 
-[![website](https://img.icons8.com/fluency/26/000000/domain.png)](https://devwerke.com/)
-&nbsp;&nbsp;
 [![website](https://img.icons8.com/color/26/000000/facebook-new.png)](https://www.facebook.com/mmbapin)
 &nbsp;&nbsp;
 [![website](https://img.icons8.com/external-justicon-lineal-color-justicon/26/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png)](https://www.linkedin.com/in/m-m-bapin-66ab3b146/)
