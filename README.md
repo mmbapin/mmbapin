@@ -13,7 +13,7 @@
 - 🔭 Currently learning Java, Spring Boot, Nextjs, Nodejs, GoLang
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2025 Goals: Learn more about Software Architecture  
+- 🥅 2026 Goals: Learn more about Software Architecture  
 - ⚡ Fun fact: I love to draw , read different kind of books, play cricket,
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
