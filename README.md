@@ -67,7 +67,7 @@
 ### <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/26/000000/external-work-worklife-balance-and-stress-management-parzival-1997-flat-parzival-1997.png"/>&nbsp; My Work Experience
 
 <!-- YOUTUBE:START -->
-- [Managing Partner Of Devwerke](https://devwerke.com)
+- [Senior Software Engineer L1](https://tekarsh.com/)
 - [Senior Software Engineer At Kona Software Lab LTD.](https://konasl.com/)
 - [Software Engineer At Genesys Softwares](https://genesysoftwares.com/)
 - [Front End Developer At SoftwindTech LTD.]()
