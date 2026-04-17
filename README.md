@@ -80,6 +80,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Robi Website](https://www.robi.com.bd/en)
+- [Kona Plate](https://www.konaplate.com/en)
 - [Airtel Website](https://www.bd.airtel.com/en)
 - [DBL Ceramics Website](https://dblceramics.com/en)
 - [Buy Here Now](https://www.buyherenow.com.bd/)
