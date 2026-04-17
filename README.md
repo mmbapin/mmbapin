@@ -10,10 +10,10 @@
 
 ## I'm a Software Engineer, Web Developer, Reader!!
 
-- 🔭 Currently learning Java, Spring Boot, Nextjs, Nodejs, GoLang
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Currently learning NodeJS, ExpressJS, MongoDB, Java, Spring Boot.
+- 🌱 I’m currently getting used to AI collaborative development process 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2026 Goals: Learn more about Software Architecture  
+- 🥅 2026 Goals: Learn more about Software Architecture, System Design.  
 - ⚡ Fun fact: I love to draw , read different kind of books, play cricket,
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
